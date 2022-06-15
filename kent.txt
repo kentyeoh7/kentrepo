@@ -1,1 +1,2 @@
 1. This is new file for Git.
+2. new text line from new-branch1 :)
